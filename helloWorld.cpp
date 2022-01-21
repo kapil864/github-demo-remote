@@ -6,6 +6,11 @@ int addition(int a, int b){
 	return a+b;
 }
 
+// subtraction implementation
+int sub(int a, int b){
+	return abs(a-b);
+}
+
 int main(){
 	cout<<"Hello world"<<endl;
 	// add subtraction
