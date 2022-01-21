@@ -8,7 +8,12 @@ int addition(int a, int b){
 
 // subtract funttoin
 int sub(int a, int b){		// from remote repo
-	return abs(a-b)
+	return abs(a-b);
+}
+
+// multi ifunction
+int multi(int a, int b){
+	return a*b;                 // from local repo
 }
 
 int main(){
