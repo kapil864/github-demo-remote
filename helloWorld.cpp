@@ -16,5 +16,8 @@ int main(){
 
 	// sqaure implementation
 	cout<<"Sqare fuction"<<endl; // to demonstrate stashing
+
+	// contents added on loacal macine
+	cout<<"this commnet is on local macjne to demostrate working of push cmd"<<endl;
 	return 0;	
 }
