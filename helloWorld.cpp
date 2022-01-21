@@ -6,6 +6,11 @@ int addition(int a, int b){
 	return a+b;
 }
 
+// subtract funttoin
+int sub(int a, int b){		// from remote repo
+	return abs(a-b)
+}
+
 int main(){
 	cout<<"Hello world"<<endl;
 	// add subtraction
